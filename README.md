@@ -1,2 +1,2 @@
-# Trabajo realizado para Universidad Fermin del Toro
-## Por Luisiana Moreno y Angel Quintero
+# Trabajo realizado para proyecto presentado en Universidad Fermín del Toro
+## Por Mijail Casoni para Luisiana Moreno y Angel Quintero.
